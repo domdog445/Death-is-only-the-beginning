@@ -1,0 +1,640 @@
+fileFormatVersion: 2
+guid: 16240f870a10e6a4d8a28ffe2cb13da4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decor mirror_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 64
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c34a24bd567ce47bcaf3fb0a048d7f
+      internalID: -1348227980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 66
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf137f4046faa5543b9b0e5fcd21aaec
+      internalID: 1700380512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 114
+        width: 39
+        height: 12
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e14142c3afbc84fbfb719e063a4d10
+      internalID: 1126375200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 98
+        width: 14
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca56579accaf544ebdb25b0f73a1206
+      internalID: -493191447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e757d60b1194ee458cc93084d9d00ea
+      internalID: -1311893476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 98
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d336bdb4909be86499f5b0a3c3dbd426
+      internalID: -1558559095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d2f0ccf114ae4da708648bdb84703
+      internalID: -1038299454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 82
+        width: 19
+        height: 10
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831013bc7bf79c145957ac7eae30a0d1
+      internalID: -143548204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37052c28f48406245b6464483d4cbfbd
+      internalID: 2025489274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e427b0b1bc92834da0f1e557a8cf4fd
+      internalID: 2025826046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9ea570c3ae4a47a4f58d7b791512c
+      internalID: -1729666004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a4fb2069ba064b873374d1aeb65e8
+      internalID: 1248112846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 66
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e2c50b40e3074db4b1b70e8499b68
+      internalID: 1129066625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50056487dc667ac43857099a2e49d8ee
+      internalID: 120567537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a1d24024f6e4458f3a1545031b3b4
+      internalID: -1883386795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac14cde60184f4dba690fed459456b
+      internalID: -2100890503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4edc26556d7748b7464dc0199d0a2
+      internalID: 1446913770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 35
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ed7ca59d9ee34cbd344fe4b9ab028
+      internalID: 1576402218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_18
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 34
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f324ae38eb0c418b3fa480c88dfbc
+      internalID: 1268010337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62ed205b2ed894eb1aaaac1f69eda1
+      internalID: 1170702480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550e904e8465e44c9d95d6ef81315e2
+      internalID: 34908664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07f0bd4256bf1340ba5e4090c65980c
+      internalID: 1480360398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decor mirror_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff6b90fe34b934f8805bfaef8cff00
+      internalID: 1752230771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Decor mirror_9: 2025826046
+      Decor mirror_16: 1446913770
+      Decor mirror_12: 1129066625
+      Decor mirror_22: 1752230771
+      Decor mirror_4: -1311893476
+      Decor mirror_7: -143548204
+      Decor mirror_11: 1248112846
+      Decor mirror_6: -1038299454
+      Decor mirror_2: 1126375200
+      Decor mirror_21: 1480360398
+      Decor mirror_17: 1576402218
+      Decor mirror_8: 2025489274
+      Decor mirror_15: -2100890503
+      Decor mirror_19: 1170702480
+      Decor mirror_18: 1268010337
+      Decor mirror_10: -1729666004
+      Decor mirror_20: 34908664
+      Decor mirror_0: -1348227980
+      Decor mirror_3: -493191447
+      Decor mirror_1: 1700380512
+      Decor mirror_13: 120567537
+      Decor mirror_5: -1558559095
+      Decor mirror_14: -1883386795
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

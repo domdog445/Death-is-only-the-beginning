@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plattform
+  - Sacrifice
+  - Devil
+  - Soul
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - SoulSwitch
+  - Devil
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1859158451
+    locked: 0
+  - name: ElectricObjects
+    uniqueID: 1502050249
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Blocks
+    uniqueID: 1931735371
+    locked: 0
+  - name: WorldObject
+    uniqueID: 677409623
+    locked: 0
+  - name: Player
+    uniqueID: 2362663605
+    locked: 0
+  - name: Foreground
+    uniqueID: 1449725125
+    locked: 0
+  - name: ForegroundTutorialMessage
+    uniqueID: 2644664015
+    locked: 0
